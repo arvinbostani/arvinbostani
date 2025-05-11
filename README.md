@@ -5,18 +5,18 @@ From crafting powerful backend systems in **Laravel** to designing modern UIs wi
 When I'm not coding, I'm diving deep into **cybersecurity**, testing vulnerabilities, and learning how to build safer systems.
 
 **Tech Stack:** 
-**"Programming-languages"**
-`PHP` `JavaScript` `C#.net` `C++` `Pyhton`
-**"Frameworks-and-libraries"**  
-`Laravel` `React.js` `Next.js` `Bootstrap` `TailwindCSS`
-**"Databases"** 
-`MySQL` `SqlServer` `NoSql`
-**"Development-Tool"**
-`Composer` `Node.js` `Postman` `RestAPI` `Git` `Docker`
-**"Operating-System"**
-`Kali-linux` `Parrot-linux` `Fedora`
-**"Scurity-tools"**
-`Metasploit` `Nmap` `Burp-suite` `Hydra` `SqlMap` `Wireshark` `My-own-php-scripts`
+- **"Programming-languages"**
+- `PHP` `JavaScript` `C#.net` `C++` `Pyhton`
+- **"Frameworks-and-libraries"**  
+- `Laravel` `React.js` `Next.js` `Bootstrap` `TailwindCSS`
+- **"Databases"** 
+- `MySQL` `SqlServer` `NoSql`
+- **"Development-Tool"**
+- `Composer` `Node.js` `Postman` `RestAPI` `Git` `Docker`
+- **"Operating-System"**
+- `Kali-linux` `Parrot-linux` `Fedora`
+- **"Scurity-tools"**
+- `Metasploit` `Nmap` `Burp-suite` `Hydra` `SqlMap` `Wireshark` `My-own-php-scripts`
 
 **Currently focusing on:**  
 - Growing my GitHub portfolio  
