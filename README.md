@@ -1,16 +1,18 @@
-## Hi there 👋
+### Hi, I'm Arvin Bostani — Full-Stack Developer | Cyber Security Enthusiast
 
-<!--
-**arvinbostani/arvinbostani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a 21-year-old self-taught developer who loves building, breaking, and rebuilding things with code.  
+From crafting powerful backend systems in **Laravel** to designing modern UIs with **React.js**, I build software with passion and precision.  
+When I'm not coding, I'm diving deep into **cybersecurity**, testing vulnerabilities, and learning how to build safer systems.
 
-Here are some ideas to get you started:
+**Tech Stack:**  
+`PHP` `JavaScript` `Laravel` `React.js` `Next.js` `Node.js`  
+`MySQL` `MariaDB` `Git` `Docker` `Kali Linux`  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Currently focusing on:**  
+- Growing my GitHub portfolio  
+- Building real-world projects  
+- Becoming a top-tier full-stack developer  
+
+> "Code like an artist, think like a hacker."
+
+[LinkedIn](https://your-linkedin-url) • [Portfolio](https://your-portfolio-url-if-any)
