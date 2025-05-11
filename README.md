@@ -24,5 +24,5 @@ When I'm not coding, I'm diving deep into **cybersecurity**, testing vulnerabili
 - Building & Breaking stuff (ethically)
 - Becoming a top-tier full-stack developer  
 
-> "Code like an artist, think like a hacker."
-> "Let's help those who cannot help themselves"
+- > "Code like an artist, think like a hacker."
+- > "Let's help those who cannot help themselves"
