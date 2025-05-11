@@ -14,5 +14,3 @@ When I'm not coding, I'm diving deep into **cybersecurity**, testing vulnerabili
 - Becoming a top-tier full-stack developer  
 
 > "Code like an artist, think like a hacker."
-
-[LinkedIn](https://your-linkedin-url) • [Portfolio](https://your-portfolio-url-if-any)
