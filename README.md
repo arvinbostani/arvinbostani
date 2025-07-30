@@ -1,28 +1,34 @@
-### Hi, I'm Arvin Bostani — Full-Stack Developer | Cyber Security Enthusiast
+# Arvin Bostani
 
-I'm a 21-year-old self-taught developer who loves building, breaking, and rebuilding things with code.  
-From crafting powerful backend systems in **Laravel** to designing modern UIs with **React.js**, I build software with passion and precision.  
-When I'm not coding, I'm diving deep into **cybersecurity**, testing vulnerabilities, and learning how to build safer systems.
+## About Me
 
-**Tech Stack:** 
-- **"Programming-languages"**
-- `PHP` `JavaScript` `C#.net` `C++` `Pyhton`
-- **"Frameworks-and-libraries"**  
-- `Laravel` `React.js` `Next.js` `Bootstrap` `TailwindCSS`
-- **"Databases"** 
-- `MySQL` `SqlServer` `NoSql`
-- **"Development-Tool"**
-- `Composer` `Node.js` `Postman` `RestAPI` `Git` `Docker`
-- **"Operating-System"**
-- `Kali-linux` `Parrot-linux` `Fedora`
-- **"Scurity-tools"**
-- `Metasploit` `Nmap` `Burp-suite` `Hydra` `SqlMap` `Wireshark` `My-own-php-scripts`
+Hi, I'm Arvin Bostani, a seasoned backend developer with expertise in building scalable and efficient systems. With a strong background in Laravel and Golang microservices, I've developed a passion for creating robust and well-structured applications.
 
-**Currently focusing on:**  
-- Growing my GitHub portfolio  
-- Building complicated projects
-- Building & Breaking stuff (ethically)
-- Becoming a top-tier full-stack developer  
+## Skills
 
-- > "Code like an artist, think like a hacker."
-- > "Let's help those who cannot help themselves"
+* **Backend Development**: Laravel, Golang (microservices)
+* **Mobile App Development**: Flutter
+* **Programming Languages**: PHP, TypeScript, Go (Golang), Dart
+* **Operating System**: Linux
+* **Tools and Technologies**:
+	+ **IDE**: PHPStorm
+	+ **API Testing**: Postman
+	+ **Web Servers**: Apache2
+	+ **Databases**: MySQL
+
+## Experience
+
+As a skilled backend developer, I've worked on various projects, including:
+
+* Building scalable microservices with Golang
+* Developing robust Laravel applications with a focus on performance and security
+* Creating engaging mobile applications with Flutter
+
+## Contact Me
+
+If you're interested in collaborating or discussing project ideas, feel free to reach out to me at [your email address] or [your LinkedIn profile URL].
+
+## Let's Connect
+
+* **LinkedIn**: [your LinkedIn profile URL]
+* **GitHub**: [your GitHub profile URL]
