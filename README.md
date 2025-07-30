@@ -9,7 +9,7 @@ Hi, I'm Arvin Bostani, a seasoned backend developer with expertise in building s
 * **Backend Development**: Laravel, Golang (microservices)
 * **Mobile App Development**: Flutter
 * **Programming Languages**: PHP, TypeScript, Go (Golang), Dart
-* **Operating System**: Linux
+* **Operating System**: Fedora Linux
 * **Tools and Technologies**:
 	+ **IDE**: PHPStorm
 	+ **API Testing**: Postman
