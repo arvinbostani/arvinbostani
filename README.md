@@ -30,5 +30,4 @@ If you're interested in collaborating or discussing project ideas, feel free to 
 
 ## Let's Connect
 
-* **LinkedIn**: [your LinkedIn profile URL]
-* **GitHub**: [your GitHub profile URL]
+* **GitHub**: [[GitHub profile](https://github.com/arvinbostani)]
