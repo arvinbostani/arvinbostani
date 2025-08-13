@@ -36,15 +36,17 @@
 
 <br clear="both">
 
-<img align="left" height="200" src="https://s14.gifyu.com/images/bN46e.gif"  />
+<div align="center">
+  <img height="200" src="https://s14.gifyu.com/images/bN46e.gif"  />
+</div>
 
 ###
 
-<h3 align="left">Experience</h3>
+<h2 align="left">Experience</h2>
 
 ###
 
-<h6 align="left">Building scalable microservices with Golang<br>Developing robust Laravel applications with a focus on performance and security<br>Creating engaging mobile applications with Flutter</h6>
+<p align="left">Building scalable microservices with Golang<br>Developing robust Laravel applications with a focus on performance and security<br>Creating engaging mobile applications with Flutter</p>
 
 ###
 
