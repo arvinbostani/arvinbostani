@@ -30,6 +30,9 @@
   <img src="https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=white&style=for-the-badge" height="29" alt="flutter logo"  />
   <img width="7" />
   <img src="https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white&style=for-the-badge" height="29" alt="figma logo"  />
+  <img width="7" />
+  <img src="https://img.shields.io/badge/PhpStorm-000000?logo=phpstorm&logoColor=white&style=for-the-badge" height="29" alt="phpstorm logo"  />
+
 </div>
 
 ###
