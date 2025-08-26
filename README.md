@@ -49,7 +49,14 @@
 
 ###
 
-<p align="left">Building scalable microservices with Golang<br>Developing robust Laravel applications with a focus on performance and security<br>Creating engaging mobile applications with Flutter</p>
+<p align="left">
+  Building scalable microservices with Golang <br>
+  Developing robust Laravel applications with a focus on performance and security <br>
+  Creating engaging mobile applications with Flutter <br>
+  Crafting dynamic web applications with Angular <br>
+  Leveraging AnalogJS for modern full-stack development
+</p>
+
 
 ###
 
