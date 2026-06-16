@@ -29,7 +29,6 @@ func main() {
     me := Engineer{
         Alias:    "Var NYX",
         Craft:    "backend systems & complete products",
-        Weapon:   "Go + gRPC",
         Believes: "ship it finished, or it doesn't count",
     }
     _ = me // the rest is in the commits ↓
