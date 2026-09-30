@@ -83,7 +83,7 @@ The one rule I don't break: **it has to actually run.** Deployed, working, in re
 
 ### `// uplink`
 
-[![Portfolio](https://img.shields.io/badge/varnyx.dev-A78BFA?style=for-the-badge&logo=vercel&logoColor=0B0B10)]({PORTFOLIO_URL})
+[![Portfolio](https://img.shields.io/badge/varnyx.dev-A78BFA?style=for-the-badge&logo=vercel&logoColor=0B0B10)]({[PORTFOLIO_URL](https://arvin-portfolio-seven.vercel.app/fa)})
 [![Email](https://img.shields.io/badge/email-2D2D2D?style=for-the-badge&logo=protonmail&logoColor=A78BFA)](mailto:rvinjson@proton.me)
 [![X](https://img.shields.io/badge/X-2D2D2D?style=for-the-badge&logo=x&logoColor=white)]()
 
